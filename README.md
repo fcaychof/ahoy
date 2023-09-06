@@ -46,17 +46,17 @@ oc expose springboot-sample-app --hostname=www.example.com
 
 
 ### Database H2
-![Database H2](../ahoy/img/file.png)
+![Database H2](./img/file.png)
 
 ### Back-end: Imprimindo codigo de Agente
-![Back-end](../ahoy/img/back-end.png)
-![Back-end](../ahoy/img/agente.png)
+![Back-end](./img/back-end.png)
+![Back-end](./img/agente.png)
 
 ### Front-end: Angular
-![Front-end](../ahoy/img/angular1.png)
-![Front-end](../ahoy/img/angular2.png)
-![Front-end](../ahoy/img/angular3.png)
-![Front-end](../ahoy/img/angular-spinner.png)
+![Front-end](./img/angular1.png)
+![Front-end](./img/angular2.png)
+![Front-end](./img/angular3.png)
+![Front-end](./img/angular-spinner.png)
 
 
 
