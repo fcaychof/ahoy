@@ -50,7 +50,7 @@ export class UploadFilesComponent implements OnInit {
 
   async upload(idx: number, file: File): Promise<void> {
     this.uploadProgress = true;
-   // await this.delay(7000);
+    await this.delay(7000);
     this.progressInfos[idx] = {value: 0, fileName: file.name};
 
     if (file) {
